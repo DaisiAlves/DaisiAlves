@@ -21,5 +21,11 @@
   <a href="https://www.linkedin.com/in/ricardohdias" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style= for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
 
-## Principais Projetos 
-<a href="https://daisialves.github.io/projeto-isaias53/" target=_blank></a>
+### Principais Projetos 
+<div>
+<ul> 
+ <li> <a href="https://daisialves.github.io/projeto-isaias53/" target="_blank"> Projeto Isaías 53 </a> </li>
+<li> <a href="https://daisialves.github.io/projeto-android/" target="_blank"> Projeto Android </a> </li>
+ </ul>
+</div>
+
