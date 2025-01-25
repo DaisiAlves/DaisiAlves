@@ -1,6 +1,6 @@
 ## Olá, meu nome é Daisi! Seja bem vindo ao meu perfil 🤸‍♀️
 
-![snake gif](https://github.com/DaisiAlves/DaisiAlves/blob/output/github-contribution-grid-snake.svg)
+
 
 
  <div>
@@ -10,6 +10,8 @@
 
    
 </div>
+
+
 
 ## Habilidades 
     
@@ -27,7 +29,9 @@
 <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg ">
  
 <br>
- 
+
+![snake gif](https://github.com/DaisiAlves/DaisiAlves/blob/output/github-contribution-grid-snake.svg)
+
 ### Conheça mais sobre mim 🌟
  
 <div>
