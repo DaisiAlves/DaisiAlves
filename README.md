@@ -1,6 +1,6 @@
 ## Olá, meu nome é Daisi! Seja bem vindo ao meu perfil 🤸‍♀️
 
-![Snake Game](https://raw.githubusercontent.com/DaisiAlves/snk/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/DaisiAlves/DaisiAlves/blob/output/github-contribution-grid-snake.svg)
 
 
  <div>
