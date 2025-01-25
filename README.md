@@ -1,5 +1,8 @@
 ## Olá, meu nome é Daisi! Seja bem vindo ao meu perfil 🤸‍♀️
 
+![Snake Game](https://raw.githubusercontent.com/DaisiAlves/SNK/output/github-contribution-grid-snake.svg)
+
+
  <div>
    <a href="https://github.com/DaisiAlves">
    <img height="150em"  src="https://github-readme-stats.vercel.app/api?username=DaisiAlves&show_icons=true&theme=rose&include_all_commits=true&count_private=true"/>
